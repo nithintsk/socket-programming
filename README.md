@@ -1,10 +1,11 @@
+# Description
 A simple sender and receiver program to demonstrate the working of multicast sockets in C.
 
+# Demo
 Compilation:
 `$ make`
 
 Usage:
-
 1. Open multiple terminals in a single view
 2. Run the recv program on all but one terminals -->
 ```$ ./recv```
